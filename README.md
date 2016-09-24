@@ -1,7 +1,7 @@
 
 ## Android 开发中的日常积累
 
->关于我
+>原作者
  - 区长
  - [CSDN博客-区长](http://blog.csdn.net/sbsujjbcy)
  - [github博客](https://lizhangqu.github.io/)
